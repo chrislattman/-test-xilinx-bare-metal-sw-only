@@ -19,3 +19,7 @@
 
 _ide/logs
 _ide/.wsdata
+
+hw/sdt/.Xil
+zynq_fsbl/.cache
+zynq_fsbl/build

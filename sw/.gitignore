@@ -19,4 +19,5 @@
 
 _ide/logs
 _ide/.wsdata
+_ide/workspace_journal*.py
 dfx_runtime.txt
